@@ -54,8 +54,8 @@
         <li>&#x1F3CB; Tip: Engage in coding exercises and projects.</li>
         <li>&#x1F4A1; Why: Practice is key to mastery. Regularly challenge yourself with coding exercises or small projects.</li>
     </ul>
-    <p>
-        Remember, problem-solving is a skill that improves with practice and experience.<br>
-        Embrace challenges as opportunities to grow and refine your HTML and CSS expertise. &#x1F680;
-    </p>
 </ol>
+<p>
+    Remember, problem-solving is a skill that improves with practice and experience.<br>
+    Embrace challenges as opportunities to grow and refine your HTML and CSS expertise. &#x1F680;
+</p>
