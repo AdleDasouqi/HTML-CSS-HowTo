@@ -18,7 +18,7 @@ body {
     text-align: center;
     padding: 16px;
     color: #FFFF;
-    font-size: 39px;
+    font-size: 30px;
 }
 
 .nav a:hover {
@@ -26,6 +26,6 @@ body {
 }
 
 .active {
-    background-color: #FFD803
+    background-color: #FFD803;
 }
 

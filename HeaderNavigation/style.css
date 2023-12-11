@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.headernav {
+    width: 100%;
+    background-color: #000;
+    overflow: auto;
+}
+
+.headernav a {
+    float: left;
+    width: 9%;
+    text-align: center;
+    padding: 12px 12px;
+    font-size: 25px;
+    color: #FFFF;
+}
+
+a:hover {
+    background-color: #DDD;
+    color: #555;
+}
+
+.active {
+    background-color: #FFD803;
+}
