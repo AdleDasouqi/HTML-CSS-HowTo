@@ -14,7 +14,7 @@
     <li>Practical examples illustrating best practices.</li>
 </ul>
 
-<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6" style="width: 100%; height: 450px;">
+<img src="https://pbs.twimg.com/media/Ezae015VEAMY9em?format=jpg&name=900x900" style="width: 100%; height: 100%;">
 
 <h2>6 ways to improve your HTML and CSS problem-solving skills: &#129300</h2>
 
