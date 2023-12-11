@@ -1,4 +1,4 @@
-<h1 style="font-family:'Times New Roman', Times, serif;">HTML - CSS How To</h1>
+<h1 style="font-family:'Times New Roman', Times, serif;">HTML - CSS and JS How To</h1>
 <p style="font-family:'Times New Roman', Times, serif;">December 9, 2023</p>
 
 <p style="font-family:'Times New Roman', Times, serif;">
