@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.menu-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.menu-icon div  {
+    width: 35px;
+    height: 4px;
+    margin: 3px 0;
+    background-color: #000;
+}
