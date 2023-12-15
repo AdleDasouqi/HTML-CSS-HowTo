@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-icon {
+    width: 100%;
+    background-color: #000;
+    overflow: auto;
+}
+
+.navigation-icon a {
+    float: left;
+    padding: 12px;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigation-icon a:hover {
+    color: #000;
+    background-color: #FFF;
+}
+
+.active {
+    background-color: #FFD803;
+}
+
+/* 
+ * A media query is a feature that allows you to apply different styles to a document based on various criteria such as 
+   the device's screen size, resolution, or other characteristics. 
+*/
+@media screen and (max-width: 500px) {
+    .navigation-icon a {
+        float: none;
+        display: block;
+    }
+}
